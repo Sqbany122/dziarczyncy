@@ -5,11 +5,11 @@ export const Header = (props) => {
     <>
       <header id='header'>
         <div className="">
-          <video id="background-video" src="/inc/background.mp4" autoPlay muted loop>
+          <video id="background-video" src="/inc/background-video.mp4" autoPlay muted loop>
           </video>
           <div className="mainMenu">
             <div className="mainMenuItem">
-              <a href="#">Studio</a>
+              <a href="/o-nas">Studio</a>
             </div>
             <div className="mainMenuItem">
               <a href="/artysci">Artyści</a>
@@ -18,7 +18,7 @@ export const Header = (props) => {
               <a href="#">Barber Shop</a>
             </div>
             <div className="mainMenuItem">
-              <a href="#">Kontakt</a>
+              <a href="/contact">Kontakt</a>
             </div>
           </div>
         </div>
