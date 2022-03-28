@@ -3,7 +3,7 @@ import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
 import Artists from "./components/artists";
 import About from "./components/about";
-import Contact from "./components/contact";
+import BarberShop from "./components/barber-shop";
 import "./App.css";
 
 import {
@@ -23,7 +23,7 @@ const App = () => {
           <Route path="/" element={<Header />}></Route>
           <Route path="/artysci" element={<Artists />}></Route>
           <Route path="/o-nas" element={<About />}></Route>
-          <Route path="/contact" element={<Contact />}></Route>
+          <Route path="/barber-shop" element={<BarberShop />}></Route>
         </Routes>
       </Router>
     </div>

@@ -1,13 +1,13 @@
 import Footer from './footer';
 
-const About = () => {
+const BarberShop = () => {
     return (
       <>
         <main>
           <div class="card">
               <div class="inner">
-                <h2 class="title">Dziarczyńcy</h2>
-                <p class="subtitle">Jesteśmy zespołem tatuatorek, tatuatorów, barberek i barberów, który dziara i obcina z uśmiechem na ustach w centrum Poznania. Stawiamy na dobrą robotę i przyjacielską atmosferę – umiemy ciężko pracować i uważnie słuchać. Chcesz nas poznać? Znajdź nas na Facebooku lub Instagramie, wybierz nasz numer i powiedz cześć. Reszta już pójdzie z górki.</p>
+                <h2 class="title">BarberShop</h2>
+                <p class="subtitle"> W naszym studio na piętrze mamy kameralny barber shop lub jeśli ktoś woli: fryzjer męski. Emilii i Kubie nie straszna żadna fryzura, czy gęsta broda. Naszą pracę opieramy się na uznanych markach – Reuzel, Uppercut, Layrite. Jesteś wielbicielem pomady na włosy, czy też ceniącym pachnące balsamy brodaczem: będziesz zadowolony. Jeśli jeszcze nie byłeś gościem na naszych fotelach, to wygląda na to, że czas najwyższy! Wizytę rezerwuj przez aplikację Booksy lub dzwoń bezpośrednio do studio.</p>
               </div>
           </div>
         </main>
@@ -20,5 +20,5 @@ const About = () => {
     )
   }
   
-  export default About;
+  export default BarberShop;
   

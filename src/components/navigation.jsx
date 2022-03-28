@@ -3,7 +3,7 @@ export const Navigation = (props) => {
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
       <div className='navbar-header'>
         <a className='navbar-brand page-scroll' href='/'>
-          <img src="/inc/dziarczyncy-logo-long.png" width="280px" className="logo" />
+          <img src="/inc/dziarczyncy-logo-long.png" width="240px" className="logo" />
         </a>{' '}
       </div>
       <div className="reservation">
