@@ -6,7 +6,7 @@ export const Header = (props) => {
     <>
       <header id='header'>
         <div className="">
-          <video id="background-video" src="/inc/background-video.mp4" poster="/inc/movie-background.png" autoPlay muted loop>
+          <video id="background-video" src="/inc/background-video.mp4" poster="/inc/movie-background.jpg" autoPlay muted loop>
           </video>
           <div className="mainMenu">
             <div className="mainMenuItem">
