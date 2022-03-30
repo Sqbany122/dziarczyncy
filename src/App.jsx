@@ -17,8 +17,8 @@ import {
 const App = () => {
   return (
     <div>
-      <Navigation />
       <Router>
+        <Navigation />
         <Routes>
           <Route path="/" element={<Header />}></Route>
           <Route path="/artysci" element={<Artists />}></Route>

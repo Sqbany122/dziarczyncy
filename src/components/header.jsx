@@ -1,4 +1,5 @@
 import Footer from './footer';
+import { Link } from 'react-router-dom'
 
 export const Header = (props) => {
   return (
@@ -9,13 +10,13 @@ export const Header = (props) => {
           </video>
           <div className="mainMenu">
             <div className="mainMenuItem">
-              <a href="/o-nas">STUDIO</a>
+              <Link to="/o-nas">STUDIO</Link>
             </div>
             <div className="mainMenuItem">
-              <a href="/artysci">ARTYŚCI</a>
+              <Link to="/artysci">ARTYŚCI</Link>
             </div>
             <div className="mainMenuItem">
-              <a href="/barber-shop">BARBERSHOP</a>
+              <Link to="/barber-shop">BARBERSHOP</Link>
             </div>
           </div>
         </div>
