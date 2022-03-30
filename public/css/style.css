@@ -759,6 +759,10 @@ label {
   .subtitle {
     font-size: 1.7rem !important;
   }
+
+  .aboutText {
+    padding: 5rem 30px !important;
+  }
 }
 
 .navbar-header {
