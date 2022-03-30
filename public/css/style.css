@@ -753,11 +753,11 @@ label {
   }
 
   .title {
-    font-size: 4rem !important;
+    font-size: 3rem !important;
   }
 
   .subtitle {
-    font-size: 1.7rem !important;
+    font-size: 1.5rem !important;
   }
 
   .aboutText {
@@ -779,11 +779,11 @@ label {
   }
 
   .title {
-    font-size: 4.5rem !important;
+    font-size: 3.5rem !important;
   }
 
   .subtitle {
-    font-size: 1.7rem !important;
+    font-size: 1.5rem !important;
   }
 }
 
@@ -796,7 +796,7 @@ label {
   background-image: linear-gradient(
     rgba(0, 0, 0, 0.4), 
     rgba(0, 0, 0, 0.4)
-  ), url('../inc/artysci/artists_background.jpeg');
+  ), url('../inc/artysci/artists_background.jpg');
   background-position: center;
   background-size: cover;
   z-index: -1;
@@ -894,7 +894,7 @@ main {
   background-image: linear-gradient(
     rgba(0, 0, 0, 0.4), 
     rgba(0, 0, 0, 0.4)
-  ), url('/inc/artysci/artists_background.jpeg');
+  ), url('/inc/artysci/artists_background.jpg');
     background-size: cover;
   
   @include media {
