@@ -7,7 +7,10 @@ const About = () => {
           <div class="card">
               <div class="inner">
                 <h2 class="title">Dziarczyńcy</h2>
-                <p class="subtitle">Jesteśmy zespołem tatuatorek, tatuatorów, barberek i barberów, który dziara i obcina z uśmiechem na ustach w centrum Poznania. Stawiamy na dobrą robotę i przyjacielską atmosferę – umiemy ciężko pracować i uważnie słuchać. Chcesz nas poznać? Znajdź nas na Facebooku lub Instagramie, wybierz nasz numer i powiedz cześć. Reszta już pójdzie z górki.</p>
+                <p class="subtitle">Działamy od 2016 roku - jesteśmy ekipą tatuatorek, tatuatorów, barberów, którzy wykonują swoją swoją pracę z uśmiechem na ustach w samym sercu Poznania. Umiemy ciężko pracować i uważnie wsłuchujemy się w Wasze potrzeby. Stawiamy na „dobro robotę” i chcemy, byście czuli się u nas, jak w domu. Tatuatorzy i barberzy, którzy obecnie tworzą Dziarczyńców, to zawodowa ekipa fantastycznych osobowości.</p>
+                <p class="subtitle">Chcesz nas poznać?</p>
+                <p class="subtitle">Znajdź nas na Facebooku lub Instagramie, napisz wiadomość lub wybierz nasz numer i powiedz cześć.</p>
+                <p class="subtitle">Reszta już pójdzie z górki.</p>
               </div>
           </div>
         </main>
