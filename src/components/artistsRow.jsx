@@ -19,17 +19,16 @@ const ArtistsRow = () => {
                     </div>
                     <div className="artistBox col-md-4 col-sm-6 text-center">
                         <img className="artistImg" src="/inc/artysci/artist_3.jpg" />
-                        <span className="artistName">Test test</span>
-                        <span className="artistProffesion">Artist</span>
-                        <span className="artistStyle">Fine Line, Landscape, Botanical</span>
-                        <a className="portfolioButton" href="#" target="_blank">Proftfolio</a>
+                        <span className="artistName">Monika</span>
+                        <span className="artistProffesion">Manager</span>
+                        <div className="separator"></div>
                     </div>
                     <div className="artistBox col-md-4 col-sm-6 text-center">
                         <img className="artistImg" src="/inc/artysci/artist_4.jpg" />
-                        <span className="artistName">Test test</span>
-                        <span className="artistProffesion">Artist</span>
-                        <span className="artistStyle">Fine Line, Landscape, Botanical</span>
-                        <a className="portfolioButton" href="#" target="_blank">Proftfolio</a>
+                        <span className="artistName">Kacper (per.swat)</span>
+                        <span className="artistProffesion">Artysta</span>
+                        <span className="artistStyle">Mikrorealizm, realizm organiczno abstrakcyjny - portrety, zwierzęta, rośliny</span>
+                        <a className="portfolioButton" href="https://instagram.com/per.swat?igshid=YmMyMTA2M2Y=" target="_blank">Proftfolio</a>
                     </div>
                     <div className="artistBox col-md-4 col-sm-6 text-center">
                         <img className="artistImg" src="/inc/artysci/artist_5.jpg" />
@@ -54,10 +53,10 @@ const ArtistsRow = () => {
                     </div>
                     <div className="artistBox col-md-4 col-sm-6 text-center">
                         <img className="artistImg" src="/inc/artysci/artist_8.jpg" />
-                        <span className="artistName">Test test</span>
-                        <span className="artistProffesion">Artist</span>
-                        <span className="artistStyle">Fine Line, Landscape, Botanical</span>
-                        <a className="portfolioButton" href="#" target="_blank">Proftfolio</a>
+                        <span className="artistName">Żenia (dusty_past)</span>
+                        <span className="artistProffesion">Artysta</span>
+                        <span className="artistStyle">Retro sci-fi - kosmiczne krajobrazy, kolorowe mandale</span>
+                        <a className="portfolioButton" href="https://instagram.com/dusty_past?igshid=YmMyMTA2M2Y=" target="_blank">Proftfolio</a>
                     </div>
                     <div className="artistBox col-md-4 col-sm-6 text-center">
                         <img className="artistImg" src="/inc/artysci/artist_9.jpg" />
@@ -88,13 +87,6 @@ const ArtistsRow = () => {
                         <a className="portfolioButton" href="https://instagram.com/mroz_ink?igshid=YmMyMTA2M2Y=" target="_blank">Proftfolio</a>
                     </div>
                     <div className="artistBox col-md-4 col-sm-6 text-center">
-                        <img className="artistImg" src="/inc/artysci/artist_13.jpg" />
-                        <span className="artistName">Test test</span>
-                        <span className="artistProffesion">Artist</span>
-                        <span className="artistStyle">Fine Line, Landscape, Botanical</span>
-                        <a className="portfolioButton" href="#" target="_blank">Proftfolio</a>
-                    </div>
-                    <div className="artistBox col-md-4 col-sm-6 text-center">
                         <img className="artistImg" src="/inc/artysci/artist_14.jpg" />
                         <span className="artistName">Oleh (roqu.ttt)</span>
                         <span className="artistProffesion">Artysta</span>
@@ -102,11 +94,11 @@ const ArtistsRow = () => {
                         <a className="portfolioButton" href="https://instagram.com/roqu.ttt?igshid=YmMyMTA2M2Y=" target="_blank">Proftfolio</a>
                     </div>
                     <div className="artistBox col-md-4 col-sm-6 text-center">
-                        <img className="artistImg" src="/inc/artysci/artist_15.jpg" />
-                        <span className="artistName">Test test</span>
-                        <span className="artistProffesion">Artist</span>
-                        <span className="artistStyle">Fine Line, Landscape, Botanical</span>
-                        <a className="portfolioButton" href="#" target="_blank">Proftfolio</a>
+                        <img className="artistImg" src="/inc/artysci/artist_17.jpg" />
+                        <span className="artistName">Olga (olga_elepoke)</span>
+                        <span className="artistProffesion">Artystka</span>
+                        <span className="artistStyle">Handpoke/maszyna, autorski graficzny - kobiece portrety, motywy roślinne</span>
+                        <a className="portfolioButton" href="https://instagram.com/olga_elepoke?igshid=YmMyMTA2M2Y=" target="_blank">Proftfolio</a>
                     </div>
                     <div className="artistBox col-md-4 col-sm-6 text-center">
                         <img className="artistImg" src="/inc/artysci/artist_16.jpg" />

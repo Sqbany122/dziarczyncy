@@ -789,6 +789,10 @@ label {
   .mainView div p {
     font-size: 1.9rem !important;
   }
+
+  .artistName {
+    font-size: 2rem !important;
+  }
 }
 
 .mainView {
@@ -840,10 +844,11 @@ label {
 }
 
 .artistName {
-  font-size: 3rem;
+  font-size: 2.3rem;
   color: #000;
   font-weight: bold;
   display: block;
+  margin-bottom: 1rem;
 }
 
 .artistProffesion {
@@ -878,6 +883,9 @@ label {
 
 /* O NAS */
 
+.separator {
+  height: 104px !important;
+}
 
 main {
   width: 100%;
@@ -989,3 +997,10 @@ footer {
   text-align: center;
   font-size: 2rem;
 } 
+
+.barberBox {
+  display: flex; 
+  align-items: center;
+  flex-direction: column;
+  margin-top: 4rem;
+}
