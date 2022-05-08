@@ -921,11 +921,9 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center; 
-  background: white;
+  align-items: center;
   box-sizing: border-box;
   padding: 40px;
-  box-shadow:0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   
   @include media {
     width: 50%;
@@ -935,11 +933,9 @@ main {
 
 .title {
   font-size: 5rem;
-  color: black;  
+  color: #fff;
   text-align: center;
   font-weight: 700;
-  color: #181818;
-  text-shadow: 0px 2px 2px #a6f8d5;
   position: relative;
   margin: 0 0 20px 0;
   
@@ -949,7 +945,7 @@ main {
 }
 
 .subtitle {
-  color: #000;
+  color: #fff;
   font-size: 2rem;
   text-align: center;
 }
